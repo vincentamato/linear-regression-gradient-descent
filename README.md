@@ -24,6 +24,7 @@ jupyter notebook linear-regression-gradient-descent.ipynb
 ```
 
 **4. Train the model:**
+
 The notebook will guide you through loading the data, preprocessing it, and training the linear regression model using gradient descent.
 
 ## Equations
