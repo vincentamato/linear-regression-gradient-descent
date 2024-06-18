@@ -18,7 +18,7 @@ git clone https://github.com/vincentamato/linear-regression-gradient-descent.git
 pip install numpy pandas matplotlib scikit-learn
 ```
 
-**3. Run the Jupyter Notbook:$$
+**3. Run the Jupyter Notbook:**
 ```
 jupyter notebook linear-regression-gradient-descent.ipynb
 ```
