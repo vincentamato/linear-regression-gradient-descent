@@ -18,14 +18,14 @@ git clone https://github.com/vincentamato/linear-regression-gradient-descent.git
 pip install numpy pandas matplotlib scikit-learn
 ```
 
-**3. Run the Jupyter Notbook:**
+**3. Run the Jupyter Notebook:**
 ```
 jupyter notebook linear-regression-gradient-descent.ipynb
 ```
 
 **4. Train the model:**
 
-The notebook will guide you through loading the data, preprocessing it, and training the linear regression model using gradient descent.
+The notebook will guide you through loading the data, preprocessing it, and training the model.
 
 ## Equations
 **1. Prediction (Forward Pass):**
