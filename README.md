@@ -1,6 +1,6 @@
 # Linear Regression with Gradient Descent
 
-This is a simple and straightforward project to predict California housing prices using linear regression with gradient descent.
+This is a simple and straightforward project to predict California housing prices using linear regression implemented with gradient descent. The model is trained on the StatLub California Housing dataset.
 
 ## Design Choices
 **Gradient Descent:** I chose to use gradient descent instead of an analytical solution because gradient descent is scalable to larger datasets and can be easily extended to other machine learning problems. It also provided me with a hands-on way to understand the optimization process. 
